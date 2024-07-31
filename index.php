@@ -45,7 +45,7 @@
                         <td><?php echo $row['age']?></td>
                           
                         <td><a href = "update_page_1.php?id=<?php echo $row['id']?> " class="btn btn-success">Update</a></td>
-                        <td><a href = "delete.php_1.php?id=<?php echo $row['id']?>" class="btn btn-danger">Delete</a></td>
+                        <td><a href = "delete_page_1.php?id=<?php echo $row['id']?>" class="btn btn-danger">Delete</a></td>
                 <?php
 
 

@@ -1,5 +1,5 @@
 <?php
-define("HOSTNAME", "localhost:4306");
+define("HOSTNAME", "localhost");
 define("USERNAME", "root");
 define("PASSWORD", "");  
 define("DATABASE", "to_do");
