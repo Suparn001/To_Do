@@ -1,9 +1,9 @@
 <?php
 session_start();
 define("HOSTNAME", "localhost");
-define("USERNAME", "admin");
-define("PASSWORD", "ztech@44");
-define("DATABASE", "to_do");
+define("USERNAME", "");
+define("PASSWORD", "");
+define("DATABASE", "");
 
 $con = mysqli_connect(HOSTNAME, USERNAME, PASSWORD, DATABASE);
 
