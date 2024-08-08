@@ -1,6 +1,6 @@
 <?php
 session_start();
-define("HOSTNAME", "localhost");
+define("HOSTNAME", "");
 define("USERNAME", "");
 define("PASSWORD", "");
 define("DATABASE", "");
